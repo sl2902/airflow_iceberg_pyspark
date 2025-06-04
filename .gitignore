@@ -1,2 +1,7 @@
 # minio-data
 minio-data
+
+# notebook
+notebooks/derby.log
+notebooks/metastore_db/
+notebooks/.ipynb_checkpoints/
